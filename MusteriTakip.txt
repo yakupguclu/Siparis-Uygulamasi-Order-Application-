@@ -1,0 +1,2 @@
+﻿Adı Soyadı :Yakup Güçlü     Ürün Adı :Bilgisayar     Ürün Adeti :1     Sipariş Tarihi :28.12.2018 19:03:31     Mail Adresi :ykpgclu@gmail.com     Kargo Adresi :İSTANBUL     Gsm :(537) 278-0081     Kargo Ağırlığı :3     Toplam Fiyat :4720
+Yakup  Güçlü  Çek İle 1180,00₺  Ödendi    Kart İle 2754,00₺  Ödendi    Kapıda Ödeme İle 1020₺  Ödenecek
